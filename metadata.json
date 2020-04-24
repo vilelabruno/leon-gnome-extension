@@ -1,0 +1,8 @@
+{
+  "name": "Leon Gnome Extension",
+  "description": "A gnome shell extension for Leon",
+  "uuid": "1",
+  "shell-version": [
+    "3.34"
+  ]
+}
