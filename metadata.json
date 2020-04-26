@@ -2,7 +2,7 @@
   "name": "Leon Gnome Extension",
   "description": "A gnome shell extension for Leon",
   "uuid": "extension@leon-gnome-extension.github.io",
-  "shell-version": [
-    "3.34"
-  ]
+  "shell-version": ["3.34"],
+  "url": "https://github.com/vilelabruno/leon-gnome-extension",
+  "version": 1
 }
